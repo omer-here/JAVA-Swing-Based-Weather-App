@@ -1,24 +1,24 @@
 # JAVA-Swing-Based-Weather-App
 This is a Java project that provides a simple user interface for checking the weather.
 
-##Installation and usage
+## Installation and usage
 
 * To install and use the project, follow these steps:
 
-##Clone the project repository:
+## Clone the project repository:
 * git clone https://github.com/omer-here/JAVA-Swing-Based-Weather-App.git
 
-##Compile the project:
+## Compile the project:
  cd WeatherUITest
  mvn compile
 
-##Run the project:
+## Run the project:
  mvn exec:java -Dexec.mainClass=WeatherUITest.AppUI
  The project will display a simple user interface with two fields: "City". 
  Enter the city want to check the weather for and click the "Search" button. 
  The project will then display the weather forecast for the specified city and date.
 
-##Features
+## Features
 
 The project has the following features:
 
@@ -26,7 +26,7 @@ The project has the following features:
 * Supports a variety of weather data providers
 * Displays the weather forecast for the specified city and date
 
-##Contributing
+## Contributing
 
 If you would like to contribute to the project, please read the following guidelines:
 
@@ -36,6 +36,6 @@ Push your branch to the project repository.
 Create a pull request to merge your changes into the main branch.
 
 
-##Contact
+## Contact
 
 If you have any questions or problems, please contact me at github:`omer-here`.
